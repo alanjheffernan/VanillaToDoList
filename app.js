@@ -10,5 +10,4 @@ todoButton.addEventListener("click", addToDo);
 
 function addToDo(event){
     event.preventDefault();
-    console.log("hello");
 }
